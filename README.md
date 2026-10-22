@@ -43,9 +43,9 @@ I create and design software and system architecture, leveraging tools that I ha
 ### 🌱 currently exploring
 
 Combining all of my tools and knowledge into a capstone project, an E-commerce site leveraging a lot of what I know:
-Python and Django for Web app Development
-Oracle cloud ecosystem for cloud linux environment to host it
-Nginx, Cloudflare, Certbot to have my server run HTTPS
-Practicing Strong Security Fundamentals
+- Python and Django for Web app Development
+- Oracle cloud ecosystem for cloud linux environment to host it
+- Nginx, Cloudflare, Certbot to have my server run HTTPS
+- Practicing Strong Security Fundamentals
 
 ---
